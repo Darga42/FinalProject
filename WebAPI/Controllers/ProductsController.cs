@@ -27,6 +27,7 @@ namespace WebAPI.Controllers
         [HttpGet("getall")]
         public IActionResult GetAll()
         {
+            //
             //Swagger
             //Dependency chain -- 
             var result = _productService.GetAll();
