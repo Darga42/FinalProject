@@ -5,7 +5,7 @@ using DataAccess.Concrete.InMemory;
 
 //SOLID
 // Open Closed Principle 
-\\
+//
 public class Program
 {
     private static void Main(string[] args)
